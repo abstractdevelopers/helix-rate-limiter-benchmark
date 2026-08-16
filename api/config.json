@@ -1,0 +1,16 @@
+{
+  "default_limit": {
+    "requests": 100,
+    "window_seconds": 60
+  },
+  "clients": {
+    "premium": {
+      "requests": 1000,
+      "window_seconds": 60
+    },
+    "basic": {
+      "requests": 100,
+      "window_seconds": 60
+    }
+  }
+}
